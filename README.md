@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **at UFT BCS**
 
-- 👨‍💻 All of my projects are available at [template.ca](template.ca)
+- 👨‍💻 All of my projects are available at [mt github](https://github.com/Devesh-p1)
 
 - 📫 How to reach me **deveshpatel1@outlook.com**
 
